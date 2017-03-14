@@ -8,7 +8,7 @@
 git clone https://github.com/beevelop/fontawesome-spritesheet.git
 cd fontawesome-spritesheet
 
-docker build -t fass
+docker build -t fass .
 
 docker run -it -v `pwd`/dist/:/opt/fa/dist/ \
 	-e COLOR=blue -e SIZE=128 \
