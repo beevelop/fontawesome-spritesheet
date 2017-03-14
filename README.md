@@ -5,6 +5,8 @@
 ## Example
 ```bash
 # Clone this repo and run
+git clone https://github.com/beevelop/fontawesome-spritesheet.git
+cd fontawesome-spritesheet
 
 docker build -t fass
 
