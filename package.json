@@ -1,0 +1,16 @@
+{
+  "name": "font-awesome-sprite-sheet-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node_modules/.bin/grunt",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maik Hummel <m@ikhummel.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-spritesmith": "^6.4.0"
+  }
+}
