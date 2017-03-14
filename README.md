@@ -1,5 +1,7 @@
 # Font Awesome Spritesheet Generator
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/beevelop/fontawesome-spritesheet.svg)](https://greenkeeper.io/)
+
 > Simple Docker image to generate Font Awesome icons into a embeddable Spritesheet (@1x and @2x / "retina").
 
 ## Example
