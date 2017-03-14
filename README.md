@@ -21,4 +21,4 @@ Results are stored in `/opt/fa/dist` and can be mounted with `-v`.
 
 -----
 
-This plugin uses https://github.com/tupadr3/Font-Awesome-SVG-PNG and https://github.com/Ensighten/grunt-spritesmith to the magic. Thanks guys!
+This plugin uses https://github.com/tupadr3/Font-Awesome-SVG-PNG and https://github.com/Ensighten/grunt-spritesmith for the magic. Thanks guys!
